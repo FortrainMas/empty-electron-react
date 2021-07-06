@@ -5,6 +5,6 @@ Just clone the repo and than you can use "npm run electron-react" to start both 
 ```
 git clone https://github.com/FortrainMas/empty-electron-react.git
 cd empty-electron-react
-yarn add
+yarn
 npm run electron-react
 ```
